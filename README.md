@@ -1,9 +1,10 @@
 ### Fala aé meu brother!
 
+Meu nome é Aurelio Malheiros, sou um grande fã de tecnologia (principalmente as OpenSource).
 
 [![Linkedin: Aurelio Malheiros](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelio-malheiros-944835127/)](https://www.linkedin.com/in/aurelio-malheiros-944835127/)
 
-Skills
+### Skills
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102) 
