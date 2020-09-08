@@ -11,7 +11,7 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![Fortinet](https://img.shields.io/badge/-Fortinet-red?style=flat&logo=fortinet&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-blue?style=flat&logo=cisco&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-yellow?style=flat&logo=openvpn&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white) <br>
 ![StrongSwan](https://img.shields.io/badge/-strongSwan-red?style=flat&logo=strongswan&logoColor=white)
 
 
