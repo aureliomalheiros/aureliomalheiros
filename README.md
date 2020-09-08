@@ -1,8 +1,8 @@
-#### Olá meu amigo
+### Olá meu amigo
 
 Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande fã das OpenSource.
 
-##### 💼 Ferramentas de trabalho
+#### 💼 Ferramentas de trabalho
 
 ![Linux](https://img.shields.io/badge/-GNU/Linux-orange?style=flat&logo=linux&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000000?style=flat&logo=gnu-bash&logoColor=white)
@@ -15,7 +15,7 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![StrongSwan](https://img.shields.io/badge/-strongSwan-red?style=flat&logo=strongswan&logoColor=white)
 
 
-##### 📖 Ferramentas que estou estudando
+#### 📖 Ferramentas que estou estudando
 
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git) 
@@ -23,7 +23,7 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)
 ![Ansible](https://img.shields.io/badge/-Ansible-181717?style=flat&logo=ansible)
 
-##### 📫 Como me contatar:
+#### 📫 Como me contatar:
 <br/>
 <a href="https://twitter.com/AurelioCabeca">
   <img align="left" alt="Aurelio S Malheiros| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
