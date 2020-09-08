@@ -22,7 +22,7 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=for-the-badge&logo=gitlab)
-![Ansible](https://img.shields.io/badge/-Ansible-181717?style=for-the-badge&logo=ansible)
+![Ansible](https://img.shields.io/badge/-Ansible-181717?style=for-the-badge&logo=ansible) <br/>
 ![Terraform](https://img.shields.io/badge/-Terraform-181717?style=for-the-badge&logo=terraform)
 
 #### ⚡ Certificações
