@@ -5,7 +5,7 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 #### 💼 Ferramentas de trabalho:
 
 
-![Linux](https://img.shields.io/badge/-GNU/Linux-lightgrey?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-GNU/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=red)
 ![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws&logoColor=yellow) <br>
@@ -23,6 +23,13 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=for-the-badge&logo=gitlab)
 ![Ansible](https://img.shields.io/badge/-Ansible-181717?style=for-the-badge&logo=ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-181717?style=for-the-badge&logo=terraform)
+
+#### ⚡ Certificações
+- **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
+- **NS1 Network Security Associate - FORTINET**
+- **NS2 Network Security Associate - FORTINET**
+- **NS3 Network Security Associate - FORTINET**
 
 #### 📫 Como me contatar:
 <br/>
