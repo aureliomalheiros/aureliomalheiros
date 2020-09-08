@@ -8,14 +8,13 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 <a href="https://twitter.com/AurelioCabeca">
   <img align="left" alt="Aurelio S Malheiros| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<br/>
 <a href="https://www.linkedin.com/in/aurelio-malheiros-944835127/">
   <img align="left" alt="Aurelio S Malheiros| Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linkedin.svg" />
 </a>
-<br/>
 <a href="https://t.me/AurelioMalheiros">
   <img align="left" alt="Aurelio S Malheiros| Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/telegram.svg" />
 </a>
+<br/>
 
 ### Skills
 
