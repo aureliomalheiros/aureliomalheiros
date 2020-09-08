@@ -2,7 +2,7 @@
 
 Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande fã das OpenSource.
 
-#### 💼 Ferramentas de trabalho
+#### 💼 Ferramentas de trabalho:
 
 ![Linux](https://img.shields.io/badge/-GNU/Linux-orange?style=flat&logo=linux&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000000?style=flat&logo=gnu-bash&logoColor=white)
@@ -15,7 +15,7 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![StrongSwan](https://img.shields.io/badge/-strongSwan-red?style=flat&logo=strongswan&logoColor=white)
 
 
-#### 📖 Ferramentas que estou estudando
+#### 📖 Ferramentas que estou estudando:
 
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git) 
