@@ -24,6 +24,7 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=for-the-badge&logo=gitlab)
 ![Ansible](https://img.shields.io/badge/-Ansible-181717?style=for-the-badge&logo=ansible) <br/>
 ![Terraform](https://img.shields.io/badge/-Terraform-181717?style=for-the-badge&logo=terraform)
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
 
 #### ⚡ Certificações
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
