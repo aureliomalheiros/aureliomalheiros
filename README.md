@@ -21,7 +21,6 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-181717?style=for-the-badge&logo=gitlab)
 ![Ansible](https://img.shields.io/badge/-Ansible-181717?style=for-the-badge&logo=ansible) <br/>
 ![Terraform](https://img.shields.io/badge/-Terraform-181717?style=for-the-badge&logo=terraform)
 ![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
@@ -34,9 +33,6 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 
 #### 📫 Como me contatar:
 <br/>
-<a href="https://twitter.com/AurelioCabeca">
-  <img align="left" alt="Aurelio S Malheiros| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/aurelio-malheiros-944835127/">
   <img align="left" alt="Aurelio S Malheiros| Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linkedin.svg" />
 </a>
