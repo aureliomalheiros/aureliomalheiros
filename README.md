@@ -8,14 +8,14 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 #### 💼 Ferramentas de trabalho:
 
 
-<img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> </a>
-<img height="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
-<img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/openvpn.svg">
-<img height="15" src="https://github.com/kogg/instant-logos/blob/develop/logos/Fortinet.svg">
-<img height="40" src="https://github.com/simple-icons/simple-icons/blob/master/icons/strongswan.svg">
+</a><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a>
+<img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">  
+<img height="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/openvpn.svg"> 
+<img height="20" src="https://github.com/kogg/instant-logos/blob/develop/logos/Fortinet.svg">
+<img height="50" src="https://github.com/simple-icons/simple-icons/blob/master/icons/strongswan.svg">
 
 
 
