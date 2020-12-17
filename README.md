@@ -11,8 +11,8 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 | <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a> |
 |---|---|---|---|
 
-| <img height="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/openvpn.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></a> | <img height="50" src=""></a> | <img height="50" src="https://github.com/simple-icons/simple-icons/blob/master/icons/strongswan.svg"></a> | <img height="20" src="https://github.com/kogg/instant-logos/blob/develop/logos/Fortinet.svg"></a> |
-|---|---|---|---|---|
+| <img height="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/openvpn.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></a> | <img height="50" src="https://github.com/simple-icons/simple-icons/blob/master/icons/strongswan.svg"></a> | <img height="20" src="https://github.com/kogg/instant-logos/blob/develop/logos/Fortinet.svg"></a> |
+|---|---|---|---|
 
 
 #### 📖 Ferramentas que estou estudando:
