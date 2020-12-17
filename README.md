@@ -35,9 +35,9 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 - **NS2 Network Security Associate - FORTINET**
 - **NS3 Network Security Associate - FORTINET**
 
-#### 📫 Como me contatar:
+:
 
-<h4 align="center">Como me encontrar 📫</h4>
+<h4 align="center">#### 📫 Como me contatar</h4>
 <p align="center">
  <a href="https://www.linkedin.com/in/aurelio-malheiros-944835127/" target="blank">
   <img align="center" alt="Aurelio S Malheiros| Linkedin" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
