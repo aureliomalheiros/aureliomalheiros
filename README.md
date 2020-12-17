@@ -23,6 +23,7 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 #### 📖 Ferramentas que estou estudando:
 
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-181717?style=for-the-badge&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Ansible](https://img.shields.io/badge/-Ansible-181717?style=for-the-badge&logo=ansible) <br/>
