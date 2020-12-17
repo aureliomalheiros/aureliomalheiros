@@ -1,7 +1,10 @@
 ### Olá meu amigo
 
-Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande fã das OpenSource.
+Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e sou apaixonado por código Open-Source. Gosto muito de compartilhar conhecimento e estudar sobre tecnologia.
 
+#### :books: Formação acadêmica
+ - **Bacharel em Sistemas de informações pelo Centro Universitário Dom Bosco**
+ 
 #### 💼 Ferramentas de trabalho:
 
 
@@ -14,6 +17,7 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-yellow?style=for-the-badge&logo=openvpn&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows&logoColor=white) <br>
 ![StrongSwan](https://img.shields.io/badge/-strongSwan-red?style=for-the-badge&logo=strongswan&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-181717?style=for-the-badge&logo=terraform)
 
 
 #### 📖 Ferramentas que estou estudando:
@@ -32,13 +36,15 @@ Meu nome é Aurelio Malheiros, nascido em 1992, estudande de tecnologia e grande
 - **NS3 Network Security Associate - FORTINET**
 
 #### 📫 Como me contatar:
+<p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/aurelio-malheiros-944835127/">
-  <img align="left" alt="Aurelio S Malheiros| Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linkedin.svg" />
+  <img align="left" alt="Aurelio S Malheiros| Linkedin" width="35px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://t.me/AurelioMalheiros">
-  <img align="left" alt="Aurelio S Malheiros| Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/telegram.svg" />
+  <img align="left" alt="Aurelio S Malheiros| Telegram" width="35px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
 </a>
-<br/>
+<p align="center"><br/>
+
 
 
