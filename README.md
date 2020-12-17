@@ -8,16 +8,15 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 #### 💼 Ferramentas de trabalho:
 
 
-![Linux](https://img.shields.io/badge/-GNU/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)
-![ShellScript](https://img.shields.io/badge/-ShellScript-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Zabbix](https://img.shields.io/badge/-Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=red)
-![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon-aws&logoColor=yellow) <br>
-![Fortinet](https://img.shields.io/badge/-Fortinet-red?style=for-the-badge&logo=fortinet&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/-OpenVPN-yellow?style=for-the-badge&logo=openvpn&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows&logoColor=white) <br>
-![StrongSwan](https://img.shields.io/badge/-strongSwan-red?style=for-the-badge&logo=strongswan&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-181717?style=for-the-badge&logo=terraform)
+<img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+<img height="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/openvpn.svg">
+<img height="15" src="https://github.com/kogg/instant-logos/blob/develop/logos/Fortinet.svg">
+<img height="40" src="https://github.com/simple-icons/simple-icons/blob/master/icons/strongswan.svg">
+
 
 
 #### 📖 Ferramentas que estou estudando:
