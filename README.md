@@ -3,7 +3,7 @@
 Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e sou apaixonado por código Open-Source. Gosto muito de compartilhar conhecimento e estudar sobre tecnologia.
 
 #### :books: Formação acadêmica
-> **Bacharel em Sistemas de informações pelo Centro Universitário Dom Bosco**
+- **Bacharel em Sistemas de informações pelo Centro Universitário Dom Bosco**
  
 #### 💼 Ferramentas de trabalho:
 
