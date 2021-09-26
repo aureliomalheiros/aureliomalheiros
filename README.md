@@ -20,7 +20,7 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 ![AWS](https://img.shields.io/badge/-aws-181717?style=for-the-badge&logo=amazon)
 ![Goole Cloud](https://img.shields.io/badge/-GoogleCloud-181717?style=for-the-badge&logo=googlecloud)
 ![Fortinet](https://img.shields.io/badge/-Fortigate-181717?style=for-the-badge&logo=fortinet)
-![StrongSwan] (https://img.shields.io/badge/-StrongSwan-181717?style=for-the-badge&logo=strongswan)
+![StrongSwan](https://img.shields.io/badge/-StrongSwan-181717?style=for-the-badge&logo=strongswan)
 
 #### ⚡ Certificações
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
