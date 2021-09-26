@@ -1,11 +1,11 @@
-## Olá meu amigo
+## Olá mundo
 
 Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e sou apaixonado por código Open-Source. Tenho experiência em gerenciamento de ambientes OnPrimess e em cloud no provedor AWS, tenho conhecimento na administração de firewalls Fortigate, servidores GNU/Linux, Zabbix e assim vai. Nas horas vagas adoro assistir séries com minha noiva (Principalmente animes) e passear por São Luís.
 
-#### :books: Formação acadêmica
+### :books: Formação acadêmica
 - **Bacharel em Sistemas de informações pelo Centro Universitário Dom Bosco - 2020**
  
-#### 📖 Ferramentas que trabalho ou estudo:
+### 📖 Ferramentas que trabalho ou estudo:
 
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-181717?style=for-the-badge&logo=kubernetes)
@@ -22,7 +22,7 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 ![Fortinet](https://img.shields.io/badge/-Fortigate-181717?style=for-the-badge&logo=fortinet)
 ![StrongSwan](https://img.shields.io/badge/-StrongSwan-181717?style=for-the-badge&logo=strongswan)
 
-#### ⚡ Certificações
+### ⚡ Certificações
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
 - **NS1 Network Security Associate - FORTINET**
 - **NS2 Network Security Associate - FORTINET**
