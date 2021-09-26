@@ -1,21 +1,11 @@
-### Olá meu amigo
+## Olá meu amigo
 
-Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e sou apaixonado por código Open-Source. Gosto muito de compartilhar conhecimento e estudar sobre tecnologia.
+Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e sou apaixonado por código Open-Source. Tenho experiência em gerenciamento de ambientes OnPrimess e em cloud no provedor AWS, tenho conhecimento na administração de firewalls Fortigate, servidores GNU/Linux, Zabbix e assim vai. Nas horas vagas adoro assistir séries com minha noiva (Principalmente animes) e passear por São Luís.
 
 #### :books: Formação acadêmica
-- **Bacharel em Sistemas de informações pelo Centro Universitário Dom Bosco**
+- **Bacharel em Sistemas de informações pelo Centro Universitário Dom Bosco - 2020**
  
-#### 💼 Ferramentas de trabalho:
-
-
-| <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a> |
-|---|---|---|---|
-
-| <img height="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/openvpn.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></a> | <img height="50" src="https://github.com/simple-icons/simple-icons/blob/master/icons/strongswan.svg"></a> | <img height="20" src="https://github.com/kogg/instant-logos/blob/develop/logos/Fortinet.svg"></a> |
-|---|---|---|---|
-
-
-#### 📖 Ferramentas que estou estudando:
+#### 📖 Ferramentas que trabalho ou estudo:
 
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-181717?style=for-the-badge&logo=kubernetes)
@@ -24,6 +14,13 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 ![Ansible](https://img.shields.io/badge/-Ansible-181717?style=for-the-badge&logo=ansible) <br/>
 ![Terraform](https://img.shields.io/badge/-Terraform-181717?style=for-the-badge&logo=terraform)
 ![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
+![GNU/Linux](https://img.shields.io/badge/-Linux-181717?style=for-the-badge&logo=linux)
+![New Relic](https://img.shields.io/badge/-NewRelic-181717?style=for-the-badge&logo=newrelic)
+![Zabbix](https://img.shields.io/badge/-Zabbix-181717?style=for-the-badge&logo=zabbix)
+![AWS](https://img.shields.io/badge/-aws-181717?style=for-the-badge&logo=amazon)
+![Goole Cloud](https://img.shields.io/badge/-GoogleCloud-181717?style=for-the-badge&logo=googlecloud)
+![Fortinet](https://img.shields.io/badge/-Fortigate-181717?style=for-the-badge&logo=fortinet)
+![StrongSwan] (https://img.shields.io/badge/-StrongSwan-181717?style=for-the-badge&logo=strongswan)
 
 #### ⚡ Certificações
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
