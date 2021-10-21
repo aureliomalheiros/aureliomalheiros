@@ -11,11 +11,9 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-181717?style=for-the-badge&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Ansible](https://img.shields.io/badge/-Ansible-181717?style=for-the-badge&logo=ansible) <br/>
 ![Terraform](https://img.shields.io/badge/-Terraform-181717?style=for-the-badge&logo=terraform)
 ![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
 ![GNU/Linux](https://img.shields.io/badge/-Linux-181717?style=for-the-badge&logo=linux)
-![New Relic](https://img.shields.io/badge/-NewRelic-181717?style=for-the-badge&logo=newrelic)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-181717?style=for-the-badge&logo=zabbix)
 ![AWS](https://img.shields.io/badge/-aws-181717?style=for-the-badge&logo=amazon)
 ![Goole Cloud](https://img.shields.io/badge/-GoogleCloud-181717?style=for-the-badge&logo=googlecloud)
