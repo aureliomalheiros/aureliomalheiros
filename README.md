@@ -42,3 +42,8 @@ Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e 
   
   <p align="center"><br/>
   </p>
+  
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliomalheiros&langs_count=10&theme=tokyonight&layout=compact" alt="aureliomalheiros :: Top Langs" />
+</p>
