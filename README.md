@@ -1,9 +1,4 @@
-## Olá mundo
-
-Meu nome é Aurélio Malheiros, nasci em 1992, tenho uma família maravilhosa e sou apaixonado por código Open-Source. Tenho experiência em gerenciamento de ambientes OnPrimess e em cloud no provedor AWS, tenho conhecimento na administração de firewalls Fortigate, servidores GNU/Linux, Zabbix e assim vai. Nas horas vagas adoro assistir séries com minha noiva (Principalmente animes) e passear por São Luís.
-
-### :books: Formação acadêmica
-- **Bacharel em Sistemas de informações pelo Centro Universitário Dom Bosco - 2020**
+## Hello World
  
 ### 📖 Ferramentas que trabalho ou estudo:
 
