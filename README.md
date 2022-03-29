@@ -1,6 +1,6 @@
 ## Hello World
  
-### 📖 Ferramentas que trabalho ou estudo:
+### 📖 Skills:
 
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-181717?style=for-the-badge&logo=kubernetes)
@@ -15,12 +15,6 @@
 ![Fortinet](https://img.shields.io/badge/-Fortigate-181717?style=for-the-badge&logo=fortinet)
 ![StrongSwan](https://img.shields.io/badge/-StrongSwan-181717?style=for-the-badge&logo=strongswan)
 ![Golang](https://img.shields.io/badge/-Golang-181717?style=for-the-badge&logo=go)
-
-### ⚡ Certificações
-- **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
-- **NS1 Network Security Associate - FORTINET**
-- **NS2 Network Security Associate - FORTINET**
-- **NS3 Network Security Associate - FORTINET**
 
 
 <h4 align="center">📫 Como me contatar</h4>
