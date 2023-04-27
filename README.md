@@ -7,7 +7,7 @@ Learing:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-3371e3?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-50b7e0?style=for-the-badge&logo=go&logoColor=white)
 ![NewRelic](https://img.shields.io/badge/-NewRelic-teal?style=for-the-badge&logo=newrelic&logoColor=white)
-![Istio](https://img.shields.io/badge/-istio-white?style=for-the-badge&logo=istio&logoColor=#4373c7)
+![Istio](https://img.shields.io/badge/-istio-#4373c7?style=for-the-badge&logo=istio&logoColor=white)
 
 
 Comfortable:
