@@ -28,5 +28,5 @@ Comfortable:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aurelio_Malheiros-%234518f?color=%234518f5&logo=linkedin&logoColor=%2523403d3d&style=for-the-badge)](https://www.linkedin.com/in/aurelio-malheiros-944835127/)
 [![Telegram](https://img.shields.io/badge/Telegram-Aurelio_Malheiros-%234518f?color=%234518f5&logo=telegram&logoColor=%2523403d3d&style=for-the-badge)](https://t.me/AurelioMalheiros)
-[![Twitter](https://img.shields.io/badge/Twitter-Aurelio_Malheiros-%234518f?color=%234518f5&logo=twitter&logoColor=%2523403d3d&style=for-the-badge)](https://twitter.com/BrocadoDasIdeia)
+
 
