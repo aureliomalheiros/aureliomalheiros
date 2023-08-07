@@ -4,14 +4,13 @@ I'm SRE learning by doing.
 
 Learing:
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-3371e3?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-50b7e0?style=for-the-badge&logo=go&logoColor=white)
 ![NewRelic](https://img.shields.io/badge/-NewRelic-teal?style=for-the-badge&logo=newrelic&logoColor=white)
 ![Istio](https://img.shields.io/badge/-istio-white?style=for-the-badge&logo=istio&logoColor=#4373c7)
 
 
 Comfortable:
-
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-3371e3?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
