@@ -5,8 +5,7 @@ I'm SRE learning by doing.
 Learing:
 
 ![Golang](https://img.shields.io/badge/-Golang-50b7e0?style=for-the-badge&logo=go&logoColor=white)
-![NewRelic](https://img.shields.io/badge/-NewRelic-teal?style=for-the-badge&logo=newrelic&logoColor=white)
-![Istio](https://img.shields.io/badge/-istio-white?style=for-the-badge&logo=istio&logoColor=#4373c7)
+![Prometheus](https://img.shields.io/badge/-Prometheus-f4a916?style=for-the-badge&logo=prometheus&logoColor=white)
 
 Comfortable:
 
@@ -22,6 +21,10 @@ Comfortable:
 ![Goole Cloud](https://img.shields.io/badge/-GoogleCloud-181717?style=for-the-badge&logo=googlecloud)
 ![Fortinet](https://img.shields.io/badge/-Fortigate-red?style=for-the-badge&logo=fortinet&logoColor=white)
 ![StrongSwan](https://img.shields.io/badge/-StrongSwan-red?style=for-the-badge&logo=strongswan&logoColor=white)
+![NewRelic](https://img.shields.io/badge/-NewRelic-teal?style=for-the-badge&logo=newrelic&logoColor=white)
+![Istio](https://img.shields.io/badge/-istio-white?style=for-the-badge&logo=istio&logoColor=#4373c7)
+
+
 
 ---
 ### 📫 Contact me
