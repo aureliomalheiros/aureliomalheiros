@@ -7,6 +7,9 @@ Learing:
 ![Golang](https://img.shields.io/badge/-Golang-50b7e0?style=for-the-badge&logo=go&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-f4a916?style=for-the-badge&logo=prometheus&logoColor=white)
 ![LinkerD](https://img.shields.io/badge/-Linkerd-64f9bf?style=for-the-badge&logo=linkerd&logoColor=white)
+![ETCD](https://img.shields.io/badge/-ETCD-6cb4e2?style=for-the-badge&logo=etcd&logoColor=white)
+![CoreDNS](https://img.shields.io/badge/-CoreDNS-5f259f?style=for-the-badge&logo=CoreDNS&logoColor=white)
+
 
 
 Comfortable:
