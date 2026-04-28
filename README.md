@@ -4,7 +4,7 @@
 
 10+ years turning infrastructure into reliable, observable, and automated systems across cloud, containers, and service meshes.
 
-Currently working on AI-powered infrastructure — contributing to [HolmesGPT](https://github.com/robusta-dev/holmesgpt), an open-source AI agent for incident investigation and automated root-cause analysis.
+Experienced in **Agentic AI Engineering** — designed and built an internal agentic AI platform on top of [HolmesGPT](https://github.com/robusta-dev/holmesgpt), enabling autonomous incident investigation and root-cause analysis at scale. The platform integrates LLM orchestration, MCP (Model Context Protocol) servers, Slack, and Kubernetes tooling to deliver AI-driven on-call assistance with minimal human intervention.
 
 ---
 
@@ -34,6 +34,12 @@ Currently working on AI-powered infrastructure — contributing to [HolmesGPT](h
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI & LLM**
+
+![HolmesGPT](https://img.shields.io/badge/-HolmesGPT-1a1a2e?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-Model_Context_Protocol-6e40c9?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Languages**
 
