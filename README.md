@@ -39,7 +39,7 @@ Experienced in **Agentic AI Engineering**, designed and built an internal agenti
 
 ![HolmesGPT](https://img.shields.io/badge/-HolmesGPT-1a1a2e?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/-Model_Context_Protocol-6e40c9?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vertex](https://img.shields.io/badge/-Vertex-412991?style=for-the-badge&logo=vertex&logoColor=white)
 
 **Languages**
 
