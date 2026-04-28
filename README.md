@@ -1,10 +1,10 @@
 ## Hey, I'm Aurelio 👋
 
-**Senior SRE / Platform Engineer** — building and operating scalable infrastructure for large-scale platforms.
+**Senior SRE / Platform Engineer**, building and operating scalable infrastructure for large-scale platforms.
 
-10+ years turning infrastructure into reliable, observable, and automated systems across cloud, containers, and service meshes.
+10+ years turning infrastructure into reliable, observable, and automated systems across cloud, containers, programing and service meshes.
 
-Experienced in **Agentic AI Engineering** — designed and built an internal agentic AI platform on top of [HolmesGPT](https://github.com/robusta-dev/holmesgpt), enabling autonomous incident investigation and root-cause analysis at scale. The platform integrates LLM orchestration, MCP (Model Context Protocol) servers, Slack, and Kubernetes tooling to deliver AI-driven on-call assistance with minimal human intervention.
+Experienced in **Agentic AI Engineering**, designed and built an internal agentic AI platform on top of [HolmesGPT](https://github.com/robusta-dev/holmesgpt), enabling autonomous incident investigation and root-cause analysis at scale. The platform integrates LLM orchestration, MCP (Model Context Protocol) servers, Slack, and Kubernetes tooling to deliver AI-driven on-call assistance with minimal human intervention.
 
 ---
 
